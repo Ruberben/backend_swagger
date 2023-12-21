@@ -1,0 +1,92 @@
+2023-12-21 08:56:38.658  INFO 2860 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 on DESKTOP-8DJ45CK with PID 2860 (C:\Module\Rakamin_Module\demo\target\classes started by USER in C:\Module\Rakamin_Module\demo)
+2023-12-21 08:56:38.670 DEBUG 2860 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2023-12-21 08:56:38.670  INFO 2860 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2023-12-21 08:56:41.982  INFO 2860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-12-21 08:56:42.009  INFO 2860 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21 08:56:42.013  INFO 2860 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2023-12-21 08:56:42.268  INFO 2860 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21 08:56:42.269  INFO 2860 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3459 ms
+2023-12-21 08:56:43.861  INFO 2860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-21 08:56:44.259  INFO 2860 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 6.898 seconds (JVM running for 8.569)
+2023-12-21 09:23:03.136  INFO 20116 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 on DESKTOP-8DJ45CK with PID 20116 (C:\Module\Rakamin_Module\demo\target\classes started by USER in C:\Module\Rakamin_Module\demo)
+2023-12-21 09:23:03.141 DEBUG 20116 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2023-12-21 09:23:03.141  INFO 20116 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2023-12-21 09:23:07.628  INFO 20116 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-12-21 09:23:07.648  INFO 20116 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21 09:23:07.649  INFO 20116 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2023-12-21 09:23:07.818  INFO 20116 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21 09:23:07.819  INFO 20116 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4470 ms
+2023-12-21 09:23:09.867  INFO 20116 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-21 09:23:10.464  INFO 20116 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 8.441 seconds (JVM running for 9.682)
+2023-12-21 09:26:55.590  INFO 20116 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-21 09:26:55.591  INFO 20116 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-21 09:26:55.592  INFO 20116 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-21 09:28:06.418  INFO 12060 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 on DESKTOP-8DJ45CK with PID 12060 (C:\Module\Rakamin_Module\demo\target\classes started by USER in C:\Module\Rakamin_Module\demo)
+2023-12-21 09:28:06.423 DEBUG 12060 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2023-12-21 09:28:06.424  INFO 12060 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2023-12-21 09:28:08.726  INFO 12060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-12-21 09:28:08.743  INFO 12060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21 09:28:08.744  INFO 12060 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2023-12-21 09:28:08.871  INFO 12060 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21 09:28:08.871  INFO 12060 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2353 ms
+2023-12-21 09:28:10.609  INFO 12060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-21 09:28:11.317  INFO 12060 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 5.632 seconds (JVM running for 6.26)
+2023-12-21 09:28:43.120  INFO 12060 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-21 09:28:43.121  INFO 12060 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-21 09:28:43.122  INFO 12060 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-21 09:34:22.311  WARN 12060 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundaryRHCGnbuhjUg9h3bT;charset=UTF-8' not supported]
+2023-12-21 09:36:43.285  INFO 9344 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 on DESKTOP-8DJ45CK with PID 9344 (C:\Module\Rakamin_Module\demo\target\classes started by USER in C:\Module\Rakamin_Module\demo)
+2023-12-21 09:36:43.290 DEBUG 9344 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2023-12-21 09:36:43.290  INFO 9344 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2023-12-21 09:36:45.514  INFO 9344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-12-21 09:36:45.533  INFO 9344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21 09:36:45.534  INFO 9344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2023-12-21 09:36:45.670  INFO 9344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21 09:36:45.671  INFO 9344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2301 ms
+2023-12-21 09:36:46.973  INFO 9344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-21 09:36:47.401  INFO 9344 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 4.843 seconds (JVM running for 5.463)
+2023-12-21 09:37:27.957  INFO 3716 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 on DESKTOP-8DJ45CK with PID 3716 (C:\Module\Rakamin_Module\demo\target\classes started by USER in C:\Module\Rakamin_Module\demo)
+2023-12-21 09:37:27.961 DEBUG 3716 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2023-12-21 09:37:27.962  INFO 3716 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2023-12-21 09:37:30.179  INFO 3716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-12-21 09:37:30.198  INFO 3716 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21 09:37:30.199  INFO 3716 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2023-12-21 09:37:30.331  INFO 3716 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21 09:37:30.332  INFO 3716 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2292 ms
+2023-12-21 09:37:31.496  INFO 3716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-21 09:37:31.883  INFO 3716 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 4.61 seconds (JVM running for 5.227)
+2023-12-21 09:37:52.544  INFO 3716 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-21 09:37:52.545  INFO 3716 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-21 09:37:52.546  INFO 3716 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-21 09:38:05.424  WARN 3716 --- [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundaryAtKBtmOsPkWIeKSo;charset=UTF-8' not supported]
+2023-12-21 09:38:27.411  WARN 3716 --- [http-nio-8080-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundaryJpAFHj4LnC1mO9FS;charset=UTF-8' not supported]
+2023-12-21 09:40:17.794  WARN 3716 --- [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundarybkkDguS8KDNuP9db;charset=UTF-8' not supported]
+2023-12-21 09:40:44.491  WARN 3716 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundaryaVgiVMgKl6YneCt0;charset=UTF-8' not supported]
+2023-12-21 09:41:13.595  WARN 3716 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundarybKfk72nmuCqYVQOR;charset=UTF-8' not supported]
+2023-12-21 09:41:18.761  WARN 3716 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundaryMWOY1IwnBpBUK1xN;charset=UTF-8' not supported]
+2023-12-21 09:42:21.823  WARN 3716 --- [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundarynDRB5e3bceRsXqTe;charset=UTF-8' not supported]
+2023-12-21 09:42:24.750  WARN 3716 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundaryNm28YBYdx893PfIg;charset=UTF-8' not supported]
+2023-12-21 09:45:37.294  WARN 3716 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundarySdrQcztJIwqhQiEz;charset=UTF-8' not supported]
+2023-12-21 09:58:52.152  INFO 11972 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 on DESKTOP-8DJ45CK with PID 11972 (C:\Module\Rakamin_Module\demo\target\classes started by USER in C:\Module\Rakamin_Module\demo)
+2023-12-21 09:58:52.156 DEBUG 11972 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2023-12-21 09:58:52.156  INFO 11972 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2023-12-21 09:58:55.389  INFO 11972 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-12-21 09:58:55.421  INFO 11972 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21 09:58:55.423  INFO 11972 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2023-12-21 09:58:55.631  INFO 11972 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21 09:58:55.631  INFO 11972 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3388 ms
+2023-12-21 09:58:57.505  INFO 11972 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-21 09:58:57.869  INFO 11972 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 6.524 seconds (JVM running for 7.265)
+2023-12-21 10:00:03.801  INFO 2568 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 on DESKTOP-8DJ45CK with PID 2568 (C:\Module\Rakamin_Module\demo\target\classes started by USER in C:\Module\Rakamin_Module\demo)
+2023-12-21 10:00:03.806 DEBUG 2568 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v2.5.5, Spring v5.3.10
+2023-12-21 10:00:03.806  INFO 2568 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2023-12-21 10:00:07.064  INFO 2568 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-12-21 10:00:07.104  INFO 2568 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21 10:00:07.106  INFO 2568 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2023-12-21 10:00:07.485  INFO 2568 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21 10:00:07.485  INFO 2568 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3588 ms
+2023-12-21 10:00:09.143  INFO 2568 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-21 10:00:09.731  INFO 2568 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 6.706 seconds (JVM running for 7.371)
+2023-12-21 10:00:25.810  INFO 2568 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-21 10:00:25.811  INFO 2568 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-21 10:00:25.812  INFO 2568 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
